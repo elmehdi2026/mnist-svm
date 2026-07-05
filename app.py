@@ -3,6 +3,7 @@ import numpy as np
 from sklearn.svm import OneClassSVM
 from sklearn.datasets import fetch_openml
 
+st.header("EL MEHDI - IAENG")
 st.title("Détecteur de '0' (One-Class SVM)")
 
 # 1. Charger les données MNIST
